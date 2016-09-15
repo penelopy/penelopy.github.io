@@ -2,7 +2,7 @@
 ***
 
 
-###<strong>Full Stack Software Engineer</strong> - Currently Available
+###<strong>Full Stack Software Engineer</strong>
 
 
 <strong>Portfolio:</strong> [www.penelopecodes.com](http://)
@@ -14,8 +14,6 @@
 ###<strong>Contact Me:</strong>
 
 penelope.codes@gmail.com
-
-503.758.1413 (mobile)
 
 <strong>Linkedin:</strong> [www.linkedin.com/in/penelopehill](http://)
 
